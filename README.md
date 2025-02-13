@@ -5,7 +5,7 @@
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanM1ZnUyN21wbDBoazV2MDB2NjBtcGs3ZHNhNWFsZ2VqcW8xeXFqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ndAvMC5LFPNMCzq7m/giphy.gif"  />
 
 ###
-
+<h3>Technologies I use the most</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -42,6 +42,7 @@
 
 ###
 
+<h3>My social networks</h3>
 <div align="left">
   <a href="https://www.instagram.com/adri_1105/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
   <a href="https://www.linkedin.com/in/adrián-sanjuán-plaza-a316b929b"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
